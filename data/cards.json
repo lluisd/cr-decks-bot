@@ -1,0 +1,709 @@
+[
+  {
+    "id": 26000010,
+    "name": "skeletons",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 1
+  },
+  {
+    "id": 26000030,
+    "name": "ice_spirit",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 1
+  },
+  {
+    "id": 26000002,
+    "name": "goblins",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 28000008,
+    "name": "zap",
+    "rarity": "Common",
+    "type": "Spell",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000049,
+    "name": "bats",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000031,
+    "name": "fire_spirits",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000019,
+    "name": "spear_goblins",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000000,
+    "name": "knight",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000001,
+    "name": "archers",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000041,
+    "name": "goblin_gang",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000001,
+    "name": "arrows",
+    "rarity": "Common",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000005,
+    "name": "minions",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 27000000,
+    "name": "cannon",
+    "rarity": "Common",
+    "type": "Building",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000013,
+    "name": "bomber",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 27000006,
+    "name": "tesla",
+    "rarity": "Common",
+    "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 27000002,
+    "name": "mortar",
+    "rarity": "Common",
+    "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000008,
+    "name": "barbarians",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000022,
+    "name": "minion_horde",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000043,
+    "name": "elite_barbarians",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000024,
+    "name": "royal_giant",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000038,
+    "name": "ice_golem",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000040,
+    "name": "dart_goblin",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000039,
+    "name": "mega_minion",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000016,
+    "name": "heal_spirit",
+    "rarity": "Rare",
+    "type": "Spell",
+    "elixirCost": 1
+  },
+  {
+    "id": 27000009,
+    "name": "tombstone",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000036,
+    "name": "battle_ram",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000011,
+    "name": "valkyrie",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000014,
+    "name": "musketeer",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000018,
+    "name": "mini_pekka",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 28000000,
+    "name": "fireball",
+    "rarity": "Rare",
+    "type": "Spell",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000021,
+    "name": "hog_rider",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 27000010,
+    "name": "furnace",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000057,
+    "name": "flying_machine",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 27000001,
+    "name": "goblin_hut",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 5
+  },
+  {
+    "id": 27000004,
+    "name": "bomb_tower",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000017,
+    "name": "wizard",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000003,
+    "name": "giant",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 27000003,
+    "name": "inferno_tower",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 5
+  },
+  {
+    "id": 28000003,
+    "name": "rocket",
+    "rarity": "Rare",
+    "type": "Spell",
+    "elixirCost": 6
+  },
+  {
+    "id": 27000007,
+    "name": "elixir_collector",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 6
+  },
+  {
+    "id": 27000005,
+    "name": "barbarian_hut",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 7
+  },
+  {
+    "id": 26000028,
+    "name": "three_musketeers",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 9
+  },
+  {
+    "id": 28000006,
+    "name": "mirror",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 0
+  },
+  {
+    "id": 28000002,
+    "name": "rage",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 2
+  },
+  {
+    "id": 28000013,
+    "name": "clone",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000012,
+    "name": "tornado",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000025,
+    "name": "guards",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000004,
+    "name": "goblin_barrel",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000012,
+    "name": "skeleton_army",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000009,
+    "name": "poison",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 4
+  },
+  {
+    "id": 28000005,
+    "name": "freeze",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000027,
+    "name": "dark_prince",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000015,
+    "name": "baby_dragon",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000016,
+    "name": "prince",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000034,
+    "name": "bowler",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000007,
+    "name": "witch",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000045,
+    "name": "executioner",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000006,
+    "name": "balloon",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000054,
+    "name": "cannon_cart",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 28000007,
+    "name": "lightning",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000020,
+    "name": "giant_skeleton",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 27000008,
+    "name": "x-bow",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000004,
+    "name": "pekka",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 7
+  },
+  {
+    "id": 26000009,
+    "name": "golem",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 8
+  },
+  {
+    "id": 26000046,
+    "name": "bandit",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000023,
+    "name": "ice_wizard",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000026,
+    "name": "princess",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000035,
+    "name": "lumberjack",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000042,
+    "name": "electro_wizard",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000048,
+    "name": "night_witch",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 28000010,
+    "name": "graveyard",
+    "rarity": "Legendary",
+    "type": "Spell",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000055,
+    "name": "mega_knight",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 7
+  },
+  {
+    "id": 26000029,
+    "name": "lava_hound",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 7
+  },
+  {
+    "id": 28000011,
+    "name": "log",
+    "rarity": "Legendary",
+    "type": "Spell",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000032,
+    "name": "miner",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000037,
+    "name": "inferno_dragon",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000033,
+    "name": "sparky",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000056,
+    "name": "skeleton_barrel",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000044,
+    "name": "hunter",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000052,
+    "name": "zappies",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000050,
+    "name": "royal_ghost",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000062,
+    "name": "magic_archer",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 28000015,
+    "name": "barbarian_barrel",
+    "rarity": "Epic",
+    "type": "Spell",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000053,
+    "name": "rascals",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 28000017,
+    "name": "giant_snowball",
+    "rarity": "Common",
+    "type": "Spell",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000059,
+    "name": "royal_hogs",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000047,
+    "name": "royal_recruits",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 7
+  },
+  {
+    "id": 26000060,
+    "name": "goblin_giant",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 6
+  },
+  {
+    "id": 26000063,
+    "name": "electro_dragon",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000051,
+    "name": "ram_rider",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000058,
+    "name": "wall_breakers",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 2
+  },
+  {
+    "id": 26000061,
+    "name": "fisherman",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000067,
+    "name": "elixir_golem",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 27000012,
+    "name": "goblin_cage",
+    "rarity": "Rare",
+    "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 28000014,
+    "name": "earthquake",
+    "rarity": "Rare",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000068,
+    "name": "battle_healer",
+    "rarity": "Rare",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000064,
+    "name": "firecracker",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 3
+  },
+  {
+    "id": 28000018,
+    "name": "royal_delivery",
+    "rarity": "Common",
+    "type": "Spell",
+    "elixirCost": 3
+  },
+  {
+    "id": 26000080,
+    "name": "skeleton_dragons",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000084,
+    "name": "electro_spirit",
+    "rarity": "Common",
+    "type": "Troop",
+    "elixirCost": 1
+  },
+  {
+    "id": 26000085,
+    "name": "electro_giant",
+    "rarity": "Epic",
+    "type": "Troop",
+    "elixirCost": 8
+  }
+]

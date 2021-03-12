@@ -1,0 +1,7 @@
+module.exports = {
+  NONE: 'NONE',
+  ADD_NEW_DECK: 'ADD_NEW_DECK',
+  DELETE_DECK: 'DELETE_DECK',
+  EDIT_DECK: 'EDIT_DECK',
+  RENAME_DECK: 'RENAME_DECK'
+}
