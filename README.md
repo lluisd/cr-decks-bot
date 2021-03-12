@@ -38,7 +38,7 @@ EXTERNAL_URL
 
 ## Demo
 
-Test it with with that telegram bot https://t.me/CrDecksBot
+Test it with that telegram bot https://t.me/CrDecksBot (it takes some seconds to wake up)
 
 ![image](https://user-images.githubusercontent.com/7629843/110979830-68e97d00-8365-11eb-988a-7be061d5ff10.png)
 
