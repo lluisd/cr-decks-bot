@@ -3,3 +3,4 @@
 node.log
 .idea/
 /tmp/
+.env

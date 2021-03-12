@@ -207,7 +207,7 @@ class Deck {
               type: 'article',
               id: `${getRandomInt(1000000000000000, 999999999999999999)}`,
               title: deck.name,
-              thumb_url: config.cloudinary.url + 'w_200,h_200,c_pad,b_white/' + deck.image + '.png',
+              thumb_url: config.cloudinary.upload_url + 'w_200,h_200,c_pad,b_white/' + deck.image + '.png',
               description: DeckService.getCost(deck),
               input_message_content: {
                 message_text: this._getDeckTitle(deck, t),
@@ -383,7 +383,7 @@ class Deck {
   }
 
   _getDeckTitle(deck, t) {
-    return '[​​​​​​​​​​​\u200c]('+ config.cloudinary.url + deck.image + '.png)' +
+    return '[​​​​​​​​​​​\u200c]('+ config.cloudinary.upload_url + deck.image + '.png)' +
     '*' + deck.name + '* (' + DeckService.getCost(deck) + ') - ' +
     '[​​​​​​​​​​​' + t.__('link_to_use') + '](' + DeckService.getLink(deck) + ')';
   }

@@ -6,6 +6,7 @@
   "dependencies": {
     "canvas": "^2.6.1",
     "cloudinary": "^1.22.0",
+    "dotenv": "^8.2.0",
     "i18n": "^0.10.0",
     "lodash": "^4.17.19",
     "mongoose": "^5.9.22",

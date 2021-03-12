@@ -1,3 +1,4 @@
+require('dotenv').config()
 const mongoose = require('mongoose')
 const Messenger = require('./lib/messenger')
 const config = require('./config')

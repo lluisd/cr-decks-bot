@@ -1,4 +1,4 @@
-const cloudinary = require('cloudinary')
+const cloudinary = require('cloudinary').v2
 const config = require('../config')
 
 cloudinary.config({
@@ -9,7 +9,7 @@ cloudinary.config({
 
 function saveImage (image, folder) {
   return new Promise((resolve) => {
-    return cloudinary.v2.uploader.upload_stream({
+    return cloudinary.uploader.upload_stream({
       folder: folder,
       format: 'jpg',
     }, function (error, result) {
@@ -20,7 +20,7 @@ function saveImage (image, folder) {
 }
 
 function deleteImage (id) {
-  return cloudinary.v2.uploader.destroy(id)
+  return cloudinary.uploader.destroy(id)
     .then((result) => {
       return result
     })
@@ -28,7 +28,7 @@ function deleteImage (id) {
 
 function exists (id) {
   return new Promise((resolve, reject) => {
-    return cloudinary.v2.uploader.explicit(id,
+    return cloudinary.uploader.explicit(id,
       {
         type: 'upload'
       }
