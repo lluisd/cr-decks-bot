@@ -20,10 +20,14 @@ telegram_api_key: process.env.TELEGRAM_TOKEN
 
 ```javascript
   cloudinary: {
-    url: process.env.CLOUDINARY_URL,
+    url: process.env.CLOUDINARY_IMAGES_UPLOAD_PATH,
     cloud_name: process.env.CLOUDINARY_NAME,
     api_key: process.env.CLOUDINARY_API_KEY,
     api_secret: process.env.CLOUDINARY_API_SECRET
   }
 ```
+
+## Demo
+
+Test it with with that telegram bot https://t.me/CrDecksBot
 
