@@ -4,30 +4,41 @@ You can save more than 5 decks with this bot. Share your deck link with this bot
 
 ## Configure it
 
-You will need to configure the confi file in config/index.js by:
-1. Adding your Telegram API Key
+You will need to configure the **config/index.js** by specifying the next environment variables (can be don by creating a .env file in the root)
+
+
+1. Your Telegram API Key provided by BotFather bot
 
 ```javascript
-telegram_api_key: process.env.TELEGRAM_TOKEN
+TELEGRAM_TOKEN
 ```
 
 2. Database uri based on MONGO DB
 
 ```javascript
-  database: process.env.MONGODB_URI
+MONGODB_URI
 ```
+
 3. A Cloudinary account
 
 ```javascript
-  cloudinary: {
-    url: process.env.CLOUDINARY_IMAGES_UPLOAD_PATH,
-    cloud_name: process.env.CLOUDINARY_NAME,
-    api_key: process.env.CLOUDINARY_API_KEY,
-    api_secret: process.env.CLOUDINARY_API_SECRET
-  }
+CLOUDINARY_CLOUD_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
+```
+
+4. ENABLING WEBHOOKS (ONLY FOR PROD)
+
+```javascript
+USE_WEBHOOKS=1
+HOST
+PORT
+EXTERNAL_URL
 ```
 
 ## Demo
 
-Test it with with that telegram bot https://t.me/CrDecksBot
+Test it with that telegram bot https://t.me/CrDecksBot (it takes some seconds to wake up)
+
+![image](https://user-images.githubusercontent.com/7629843/110979830-68e97d00-8365-11eb-988a-7be061d5ff10.png)
 
