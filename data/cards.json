@@ -705,5 +705,12 @@
     "rarity": "Epic",
     "type": "Troop",
     "elixirCost": 8
+  },
+  {
+    "id": 26000083,
+    "name": "mother_witch",
+    "rarity": "Legendary",
+    "type": "Troop",
+    "elixirCost": 4
   }
 ]
