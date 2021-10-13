@@ -39,7 +39,7 @@
     "name": "fire_spirits",
     "rarity": "Common",
     "type": "Troop",
-    "elixirCost": 2
+    "elixirCost": 1
   },
   {
     "id": 26000019,
@@ -95,7 +95,7 @@
     "name": "bomber",
     "rarity": "Common",
     "type": "Troop",
-    "elixirCost": 3
+    "elixirCost": 2
   },
   {
     "id": 27000006,
@@ -164,7 +164,7 @@
     "id": 28000016,
     "name": "heal_spirit",
     "rarity": "Rare",
-    "type": "Spell",
+    "type": "Troop",
     "elixirCost": 1
   },
   {
