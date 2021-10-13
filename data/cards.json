@@ -712,5 +712,12 @@
     "rarity": "Legendary",
     "type": "Troop",
     "elixirCost": 4
+  },
+  {
+    "id": 27000013,
+    "name": "goblin_drill",
+    "rarity": "Epic",
+    "type": "Building",
+    "elixirCost": 4
   }
 ]
