@@ -150,7 +150,11 @@
     "electro_spirit": "Espíritu eléctrico",
     "electro_giant": "Gigante eléctrico",
     "mother_witch": "Bruja madre",
-    "goblin_drill": "Excavadora de duendes"
+    "goblin_drill": "Excavadora de duendes",
+    "skeleton_king": "Rey esqueleto",
+    "archer_queen": "Reina arquera",
+    "golden_knight": "Caballero dorado",
+    "mighty_miner": "Gran minero"
   },
   "troop": "Tropa",
   "building": "Edificio",

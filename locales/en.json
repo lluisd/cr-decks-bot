@@ -150,7 +150,11 @@
 		"electro_spirit": "Electro spirit",
 		"electro_giant": "Electro giant",
 		"mother_witch": "Mother witch",
-		"goblin_drill": "Goblin drill"
+		"goblin_drill": "Goblin drill",
+		"skeleton_king": "Skeleton king",
+		"archer_queen": "Archer queen",
+		"golden_knight": "Golden knight",
+		"mighty_miner": "Mighty miner"
 	},
 	"troop": "Troop",
 	"building": "Building",

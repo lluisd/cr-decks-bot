@@ -298,7 +298,7 @@
     "name": "mirror",
     "rarity": "Epic",
     "type": "Spell",
-    "elixirCost": 0
+    "elixirCost": 1
   },
   {
     "id": 28000002,
@@ -704,7 +704,7 @@
     "name": "electro_giant",
     "rarity": "Epic",
     "type": "Troop",
-    "elixirCost": 8
+    "elixirCost": 7
   },
   {
     "id": 26000083,
@@ -718,6 +718,34 @@
     "name": "goblin_drill",
     "rarity": "Epic",
     "type": "Building",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000069,
+    "name": "skeleton_king",
+    "rarity": "Champion",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000072,
+    "name": "archer_queen",
+    "rarity": "Champion",
+    "type": "Troop",
+    "elixirCost": 5
+  },
+  {
+    "id": 26000074,
+    "name": "golden_knight",
+    "rarity": "Champion",
+    "type": "Troop",
+    "elixirCost": 4
+  },
+  {
+    "id": 26000065,
+    "name": "mighty_miner",
+    "rarity": "Champion",
+    "type": "Troop",
     "elixirCost": 4
   }
 ]
