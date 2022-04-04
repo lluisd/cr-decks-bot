@@ -43,7 +43,8 @@
 		"common": "Common",
 		"rare": "Rare",
 		"epic": "Epic",
-		"legendary": "Legendary"
+		"legendary": "Legendary",
+		"champion": "createDeckOptions.champion"
 	},
 	"link_to_use": "use deck",
 	"elixir_cost": "Cost",
@@ -159,6 +160,7 @@
 	"troop": "Troop",
 	"building": "Building",
 	"spell": "Spell",
+	"champion": "Champion",
 	"legendary": "Legendary",
 	"epic": "Epic",
 	"rare": "Rare",

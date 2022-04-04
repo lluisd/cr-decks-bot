@@ -1,7 +1,8 @@
 const mongoose = require('mongoose')
+const Schema = mongoose.Schema
 
 /* Card Schema */
-const CardSchema = mongoose.Schema({
+const CardSchema = new Schema({
   id: {
     type: Number,
     required: true

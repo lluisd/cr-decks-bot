@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
 /* Deck Schema */
-const DeckSchema = Schema({
+const DeckSchema = new Schema({
   userId: {
     type: Number,
     required: true

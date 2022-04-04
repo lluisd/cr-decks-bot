@@ -2,9 +2,9 @@ const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
 /* User Schema */
-const UserSchema = Schema({
+const UserSchema = new Schema({
   id: {
-    type: Number,
+    type: Object,
     required: true
   },
   language: {
