@@ -114,7 +114,7 @@ function createCardsKeyboard (t, availableCards, selectedCards = [], page = 1, s
 
 function _getCardRarities (selectedRarities, t) {
   let filterRaritiesButtons = [];
-  const rarities = ["Common", "Rare", "Epic", "Legendary"];
+  const rarities = ["Common", "Rare", "Epic", "Legendary", "Champion"];
   rarities.forEach(r => {
     let text = t.__('createDeckOptions.' + r.toLowerCase())
     if (selectedRarities.includes(r)) text = '☑️' + text

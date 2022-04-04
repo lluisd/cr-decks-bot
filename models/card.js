@@ -12,7 +12,7 @@ const CardSchema = mongoose.Schema({
   },
   rarity: {
     type: String,
-    enum: 'Common Rare Epic Legendary'.split(' '),
+    enum: 'Common Rare Epic Legendary Champion'.split(' '),
     require: true,
   },
   type: {
