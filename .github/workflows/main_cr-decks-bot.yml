@@ -27,6 +27,7 @@ jobs:
           echo WEBHOOK_PORT: 443 >> .env
           echo TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }} >> .env
           echo USE_WEBHOOKS: 1 >> .env
+          cat .env
 
       - name: Set up Node.js version
         uses: actions/setup-node@v3
