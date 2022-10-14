@@ -4,7 +4,7 @@ const Messenger = require('./lib/messenger')
 const config = require('./config')
 const messenger = new Messenger()
 
-const port = process.env.PORT | 3000
+const port = process.env.PORT || 3000
 
 mongoose.connect(config.database,  { useNewUrlParser: true, useUnifiedTopology: true })
 
