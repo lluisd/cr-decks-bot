@@ -4,14 +4,14 @@ const Messenger = require('./lib/messenger')
 const config = require('./config')
 const messenger = new Messenger()
 
-const port = process.env.PORT || 3000
+const port = process.env.port || 8080;
 
 mongoose.connect(config.database,  { useNewUrlParser: true, useUnifiedTopology: true })
 
 const db = mongoose.connection
 db.on('error', console.error.bind(console, 'MongoDB connection error:'))
 
-messenger.listen(port)
+messenger.listen()
   .then(() => {
-    console.log('🤖  Listening to incoming messages on http://localhost:' + port)
+    console.log('🤖  Listening to incoming messages')
   })
