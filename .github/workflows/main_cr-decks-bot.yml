@@ -19,14 +19,14 @@ jobs:
       - name: create env file
         run: |
           touch .env
-          echo CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }} >> .env
-          echo CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }} >> .env
-          echo CLOUDINARY_CLOUD_NAME: lluis >> .env
-          echo EXTERNAL_URL: https://cr-decks-bot.azurewebsites.net/ >> .env
-          echo MONGODB_URI: ${{ secrets.MONGODB_URI }} >> .env
-          echo WEBHOOK_PORT: 443 >> .env
-          echo TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }} >> .env
-          echo USE_WEBHOOKS: 1 >> .env
+          echo CLOUDINARY_API_KEY=${{ secrets.CLOUDINARY_API_KEY }} >> .env
+          echo CLOUDINARY_API_SECRET=${{ secrets.CLOUDINARY_API_SECRET }} >> .env
+          echo CLOUDINARY_CLOUD_NAME=lluis >> .env
+          echo EXTERNAL_URL=https://cr-decks-bot.azurewebsites.net/ >> .env
+          echo MONGODB_URI=${{ secrets.MONGODB_URI }} >> .env
+          echo WEBHOOK_PORT=443 >> .env
+          echo TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN }} >> .env
+          echo USE_WEBHOOKS=1 >> .env
           cat .env
 
       - name: Set up Node.js version
