@@ -24,7 +24,7 @@ jobs:
           envkey_CLOUDINARY_CLOUD_NAME: lluis
           envkey_EXTERNAL_URL: https://cr-decks-bot.azurewebsites.net
           envkey_MONGODB_URI: ${{ secrets.MONGODB_URI }}
-          envkey_WEBHOOK_PORT: 443
+          envkey_PORT: 443
           envkey_TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           envkey_USE_WEBHOOKS: 1
 

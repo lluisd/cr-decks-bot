@@ -1,7 +1,7 @@
 module.exports = {
   telegram_api_key: process.env.TELEGRAM_TOKEN,
   database: process.env.MONGODB_URI,
-  webhook_port: process.env.WEBHOOK_PORT || 443,
+  port: process.env.PORT || 443,
   externalUrl: process.env.EXTERNAL_URL,
   should_use_webhooks: process.env.USE_WEBHOOKS || false,
   defaultLanguage: 'en',
